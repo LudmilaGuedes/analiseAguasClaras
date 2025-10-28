@@ -1,0 +1,8 @@
+pandas
+numpy
+statsmodels
+seaborn
+matplotlib
+selenium
+geopy
+openpyxl
