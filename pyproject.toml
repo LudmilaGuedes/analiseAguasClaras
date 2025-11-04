@@ -1,0 +1,16 @@
+[project]
+name = "webscraping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "geopy>=2.4.1",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "seaborn>=0.13.2",
+    "selenium>=4.38.0",
+    "statsmodels>=0.14.5",
+]
